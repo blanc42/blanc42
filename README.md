@@ -2,7 +2,9 @@
 
 you can call me blanc
 
-I am currently working on agent. ping me on my linkedin in you want to hire me
+I am currently working on agents. 
+ping me on my linkedin in you want to hire me
+my linkedin : https://www.linkedin.com/in/blanc42/
 
 <!--
 **blanc42/blanc42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
