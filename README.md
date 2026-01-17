@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-you can call me blanc
+you can call me blanc42
 
 I am currently working on agents. 
 ping me on my linkedin in you want to hire me
